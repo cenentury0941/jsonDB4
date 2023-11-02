@@ -1,0 +1,37 @@
+{
+  "ITEM01" : {
+    "name" : "Crack Cocaine",
+    "category" : "Drugs",
+    "amountUnit" : "Kg",
+    "price" : 99999.99,
+    "imageUrl" : ""
+  },
+  "ITEM02" : {
+    "name" : "Methamphetamine",
+    "category" : "Drugs",
+    "amountUnit" : "Oz",
+    "price" : 499.99,
+    "imageUrl" : ""
+  },
+  "ITEM03" : {
+    "name" : "Glock 9mm",
+    "category" : "Weapons",
+    "amountUnit" : "Pc",
+    "price" : 999.99,
+    "imageUrl" : ""
+  },
+  "ITEM04" : {
+    "name" : "Kalashnikov",
+    "category" : "Weapons",
+    "amountUnit" : "Pc",
+    "price" : 2999.99,
+    "imageUrl" : ""
+  },
+  "ITEM05" : {
+    "name" : "RPG-7",
+    "category" : "Weapons",
+    "amountUnit" : "Pc",
+    "price" : 59999.99,
+    "imageUrl" : ""
+  }
+}
