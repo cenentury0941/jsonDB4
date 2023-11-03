@@ -1,4 +1,4 @@
-{
+[
   "ITEM01" : {
     "name" : "Crack Cocaine",
     "category" : "Drugs",
@@ -34,4 +34,4 @@
     "price" : 59999.99,
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/home-automation-jetpack.appspot.com/o/CottonRoad%2Frpg.jpeg?alt=media&token=6c896687-9752-4468-a72c-982588b618a6"
   }
-}
+]
